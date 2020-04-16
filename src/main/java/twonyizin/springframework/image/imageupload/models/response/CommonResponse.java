@@ -1,4 +1,4 @@
-package twonyizin.springframework.image.imageupload.models;
+package twonyizin.springframework.image.imageupload.models.response;
 
 public class CommonResponse {
     private Boolean result;
